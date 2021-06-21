@@ -1,0 +1,4 @@
+LIBRARY "Project1"
+EXPORTS
+time
+amplitude
